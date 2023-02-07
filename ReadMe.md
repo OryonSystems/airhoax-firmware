@@ -1,18 +1,12 @@
-<h3 align="center">
-<a href="https://github.com/DarkFlippers/unleashed-firmware">
-<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="fzCUSTOM" border="0">
-</a>
-</h3>
 
-### Welcome to the Flipper Zero Unleashed Firmware repo! 
 
-**This firmware is a fork from** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+### AirHoax Firmware repo 
+
+**This firmware is a fork from** [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
 <br>
 
-Our goal is to make all features possible on this device without any limitations! 
 
-Please help us implement emulation for all Sub-GHz dynamic (rolling code) protocols!
 
 <br>
 
@@ -27,11 +21,6 @@ Our Discord Community:
 <br>
 <br>
 
-## Dev builds
-- https://dev.unleashedflip.com/
-- https://t.me/kotnehleb
-## Releases in Telegram
-- https://t.me/unleashed_fw
 
 # What's changed
 * Sub-GHz regional TX restrictions removed
